@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Floor
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - OneWayPlatform
+  - Interactive
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 1
+    uniqueID: 23224601
+    locked: 0
+  - name: 2
+    uniqueID: 2408610653
+    locked: 0
+  - name: 3
+    uniqueID: 2330556797
+    locked: 0
+  - name: 4
+    uniqueID: 1155153219
+    locked: 0
+  - name: 5
+    uniqueID: 523808613
+    locked: 0
+  - name: 6
+    uniqueID: 2937059665
+    locked: 0
+  - name: 7
+    uniqueID: 1888954465
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 1142466931
+    locked: 0
+  - name: Platforms
+    uniqueID: 2848964825
+    locked: 0
+  - name: 8
+    uniqueID: 1948437381
+    locked: 0
+  - name: 9
+    uniqueID: 2242432545
+    locked: 0
+  - name: 10
+    uniqueID: 1217419051
+    locked: 0
+  - name: 11
+    uniqueID: 414700887
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Layer 1
+  - Layer 2
+  - Layer 3
